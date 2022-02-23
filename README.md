@@ -1,2 +1,2 @@
 # R-Data-Science
-Data science projects related to R
+Data science projects with R & R-Studio
